@@ -1,0 +1,12 @@
+{
+    "name": "test/hello",
+    "description": "this is a demo",
+    "license": "MIT License",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
